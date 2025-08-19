@@ -1,6 +1,6 @@
 # Projeto de Educação Financeira - Blog IF-Investe
 
-![IFPR Logo](img/logoif)
+<img src="img/logoif.png" alt="IFPR Logo" width="250" />
 
 **Um projeto da disciplina de GWS desenvolvido por alunos do [Instituto Federal do Paraná (IFPR) - Campus Telêmaco Borba](https://telemaco.ifpr.edu.br/)**
 
