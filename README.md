@@ -32,9 +32,9 @@ Este blog está sendo desenvolvido por:
 ### Desenvolvedores
 
 1.  **Vagner Ferreira** - `euvagnerferreira@gmail.com`
-2.  **Leonardo Timotio** - 
-3.  **Eliphaz Gabriel** - 
-4.  **João Gabriel Castilho** - 
+2.  **Leonardo Timotio** - `leeonardo.silvat@gmail.com`
+3.  **Eliphaz Gabriel** - `eliphazgabriel.volcano@outlook.com`
+4.  **João Gabriel Castilho** - `joocastilho27@gmail.com`
 
 ### Orientação
 
