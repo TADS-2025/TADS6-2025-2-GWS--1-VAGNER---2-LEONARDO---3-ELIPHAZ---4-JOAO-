@@ -35,6 +35,7 @@ Este blog está sendo desenvolvido por:
 2.  **Leonardo Timotio** - `leeonardo.silvat@gmail.com`
 3.  **Eliphaz Gabriel** - `eliphazgabriel.volcano@outlook.com`
 4.  **João Gabriel Castilho** - `joocastilho27@gmail.com`
+5.   **Joao Victor Santos** - `jvictorsan@gmail.com`
 
 ### Orientação
 
