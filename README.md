@@ -25,6 +25,39 @@ Nosso conteúdo irá explorar temas como:
 
 ---
 
+## ⚙️ Como Rodar o Projeto
+
+Siga os passos abaixo para configurar e executar o projeto em seu ambiente de desenvolvimento local.
+
+### **1. Pré-requisitos**
+
+Antes de começar, você precisa ter as seguintes ferramentas instaladas na sua máquina:
+* [**Git**](https://git-scm.com/)
+* [**Node.js**](https://nodejs.org/en/) (versão 16.10 ou superior)
+* [**Yarn**](https://yarnpkg.com/) (gerenciador de pacotes)
+
+*Se você já tem o Node.js instalado, pode ativar o Yarn (a forma mais moderna) com o seguinte comando no terminal:*
+```bash
+corepack enable
+```
+### **2. Clonar o Repositório**
+Abra seu terminal, navegue até o diretório onde deseja salvar o projeto e clone este repositório:
+```bash
+git clone https://github.com/TADS-2025/TADS6-2025-2-GWS--1-VAGNER---2-LEONARDO---3-ELIPHAZ---4-JOAO-.git
+```
+### **3. Instalar as Dependências**
+Após clonar, entre na pasta do projeto e instale todas as dependências necessárias com o Yarn:
+```bash
+yarn install
+```
+### **4. Rodar o Projeto**
+Com as dependências instaladas, inicie o servidor de desenvolvimento:
+```bash
+yarn dev
+```
+
+O terminal irá informar o endereço local onde o projeto está rodando (geralmente http://localhost:3000). Abra este endereço no seu navegador para ver o blog em ação.
+
 ## 💻 Equipe do Projeto
 
 Este blog está sendo desenvolvido por:
